@@ -1,5 +1,5 @@
 {
-	"name": "electron-better-ipc",
+	"name": "electron-better-ipc-ex",
 	"version": "1.0.1",
 	"description": "Simplified IPC communication for Electron apps",
 	"license": "MIT",
