@@ -1,6 +1,6 @@
 {
 	"name": "electron-better-ipc-ex",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"description": "Simplified IPC communication for Electron apps",
 	"license": "MIT",
 	"repository": "sindresorhus/electron-better-ipc",
@@ -42,7 +42,7 @@
 		"ava": "^2.2.0",
 		"electron": "^6.0.2",
 		"execa": "^4.0.0",
-		"spectron": "^9.0.0",
+		"spectron": "^8.0.0",
 		"tsd": "^0.11.0",
 		"xo": "^0.25.3"
 	},
